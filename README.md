@@ -10,4 +10,5 @@ http://dx.doi.org/10.1088/1751-8121/ae17f9
 Kaggle code:
 
 https://www.kaggle.com/code/unfriendlyai/hurstee-layer-for-estimating-hurst
+
 https://www.kaggle.com/code/unfriendlyai/hurstautograd
