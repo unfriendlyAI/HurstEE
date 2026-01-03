@@ -23,7 +23,7 @@ It is available for both **TensorFlow** and **PyTorch**.
 
 ## Input Data Format
 
-For both frameworks, the expected input tensor shape is:
+For both frameworks, the expected input tensor shape is: $$(\text{Batch Size}, \text{Timesteps}, \text{Channels})$$
 
 
 ---
