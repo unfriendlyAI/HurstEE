@@ -10,7 +10,7 @@ https://www.kaggle.com/code/unfriendlyai/hurstautograd
 
 # HurstEE: Differentiable Hurst Exponent Estimation Layer
 
-This repository contains the implementation of **HurstEE**, a differentiable neural network layer that estimates the Hurst exponent () and the anomalous diffusion exponent () using the Time-Averaged Mean Squared Displacement (TA-MSD) method.
+This repository contains the implementation of **HurstEE**, a differentiable neural network layer that estimates the Hurst exponent H and the anomalous diffusion exponent (alpha) using the Time-Averaged Mean Squared Displacement (TA-MSD) method.
 
 It is available for both **TensorFlow** and **PyTorch**.
 
